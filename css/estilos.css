@@ -1,16 +1,16 @@
 @font-face {
     font-family: Raleway;
-    src: url(../fonts/Raleway-VariableFont_wght.ttf);
+    src: url(..fonts/Raleway-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: KonnectHairLine;
-    src: url(../fonts/KonnectHairline.otf);
+    src: url(..fonts/KonnectHairline.otf);
 }
 
 @font-face {
     font-family: KonnectThin;
-    src: url(../fonts/KonnectThin.otf);
+    src: url(..fonts/KonnectThin.otf);
 }
 
 :root {
@@ -232,7 +232,7 @@ body {
     padding: 20px 0px 35px 0px;
 }
 
-.gris img {/img
+.gris img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
