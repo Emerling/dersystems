@@ -135,7 +135,7 @@ body {
 }
 
 .publicidad-big {
-    background: url(/img/geek.png) no-repeat right;
+    background: url(img/geek.png) no-repeat right;
     padding: 150px 410px 0px 20px;
 
 
@@ -232,7 +232,7 @@ body {
     padding: 20px 0px 35px 0px;
 }
 
-.gris img {
+.gris img {/img
     max-width: 100%;
     height: auto;
     border-radius: 10px;
@@ -481,14 +481,14 @@ body {
 
 .card0 {
 
-    background: url(/img/pacino.jpg) center center no-repeat;
+    background: url(img/pacino.jpg) center center no-repeat;
     background-size: 300px;
 
 }
 
 .card0:hover {
 
-    background: url(/img/pacino.jpg) left center no-repeat;
+    background: url(img/pacino.jpg) left center no-repeat;
     background-size: 600px;
 }
 
@@ -521,27 +521,27 @@ body {
 /* otras card */
 .card1 {
 
-    background: url(/img/ben-stiller.jpg) center center no-repeat;
+    background: url(img/ben-stiller.jpg) center center no-repeat;
     background-size: 300px;
 
 }
 
 .card1:hover {
 
-    background: url(/img/ben-stiller.jpg) left center no-repeat;
+    background: url(img/ben-stiller.jpg) left center no-repeat;
     background-size: 600px;
 }
 
 .card2 {
 
-    background: url(/img/patrick-stwart.jpg) center center no-repeat;
+    background: url(img/patrick-stwart.jpg) center center no-repeat;
     background-size: 300px;
 
 }
 
 .card2:hover {
 
-    background: url(/img/patrick-stwart.jpg) left center no-repeat;
+    background: url(img/patrick-stwart.jpg) left center no-repeat;
     background-size: 600px;
 }
 
