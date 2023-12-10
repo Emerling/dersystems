@@ -520,8 +520,9 @@ body {
 
 /* otras card */
 .card1 {
+    /* verificando rutas */
 
-    background: url(img/ben-stiller.jpg) center center no-repeat;
+    background: url(/img/ben-stiller.jpg) center center no-repeat;
     background-size: 300px;
 
 }
