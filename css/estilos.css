@@ -521,27 +521,27 @@ body {
 /* otras card */
 .card1 {
 
-    background: url(img/ben-stiller.jpg) center center no-repeat;
+    background: url(../img/ben-stiller.jpg) center center no-repeat;
     background-size: 300px;
 
 }
 
 .card1:hover {
 
-    background: url(img/ben-stiller.jpg) left center no-repeat;
+    background: url(../img/ben-stiller.jpg) left center no-repeat;
     background-size: 600px;
 }
 
 .card2 {
 
-    background: url(/img/patrick-stwart.jpg) center center no-repeat;
+    background: url(../img/patrick-stwart.jpg) center center no-repeat;
     background-size: 300px;
 
 }
 
 .card2:hover {
 
-    background: url(img/patrick-stwart.jpg) left center no-repeat;
+    background: url(../img/patrick-stwart.jpg) left center no-repeat;
     background-size: 600px;
 }
 
