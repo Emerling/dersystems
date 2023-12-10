@@ -534,7 +534,7 @@ body {
 
 .card2 {
 
-    background: url(img/patrick-stwart.jpg) center center no-repeat;
+    background: url(/img/patrick-stwart.jpg) center center no-repeat;
     background-size: 300px;
 
 }
@@ -544,6 +544,7 @@ body {
     background: url(img/patrick-stwart.jpg) left center no-repeat;
     background-size: 600px;
 }
+
 
 /* fin card */
 
