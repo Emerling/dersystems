@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: KonnectThin;
-    src: url(/fonts/KonnectThin.otf);
+    src: url(../fonts/KonnectThin.otf);
 }
 
 :root {
@@ -481,14 +481,14 @@ body {
 
 .card0 {
 
-    background: url(img/pacino.jpg) center center no-repeat;
+    background: url(../img/pacino.jpg) center center no-repeat;
     background-size: 300px;
 
 }
 
 .card0:hover {
 
-    background: url(img/pacino.jpg) left center no-repeat;
+    background: url(../img/pacino.jpg) left center no-repeat;
     background-size: 600px;
 }
 
