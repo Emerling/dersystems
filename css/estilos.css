@@ -1,11 +1,11 @@
 @font-face {
     font-family: Raleway;
-    src: url(fonts/Raleway-VariableFont_wght.ttf);
+    src: url(..fonts/Raleway-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: KonnectHairLine;
-    src: url(fonts/KonnectHairline.otf);
+    src: url(..fonts/KonnectHairline.otf);
 }
 
 @font-face {
@@ -135,7 +135,7 @@ body {
 }
 
 .publicidad-big {
-    background: url(img/geek.png) no-repeat right;
+    background-image: url(img/geek.png) no-repeat right;
     padding: 150px 410px 0px 20px;
 
 
