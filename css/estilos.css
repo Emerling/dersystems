@@ -481,8 +481,8 @@ body {
 }
 
 .card0 {
-
-    background: url(../img/pacino.jpg)center center no-repeat;
+/* ya verificado rutas */
+    background: url(../img/pacino.jpg) center center no-repeat;
     background-size: 300px;
 
 }
