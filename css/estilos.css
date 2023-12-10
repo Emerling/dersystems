@@ -1,16 +1,16 @@
 @font-face {
     font-family: Raleway;
-    src: url(/fonts/Raleway-VariableFont_wght.ttf);
+    src: url(fonts/Raleway-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: KonnectHairLine;
-    src: url(/fonts/KonnectHairline.otf);
+    src: url(fonts/KonnectHairline.otf);
 }
 
 @font-face {
     font-family: KonnectThin;
-    src: url(/fonts/KonnectThin.otf);
+    src: url(fonts/KonnectThin.otf);
 }
 
 :root {
@@ -520,9 +520,8 @@ body {
 
 /* otras card */
 .card1 {
-    /* verificando rutas css */
 
-    background: url(/img/ben-stiller.jpg) center center no-repeat;
+    background: url(img/ben-stiller.jpg) center center no-repeat;
     background-size: 300px;
 
 }
