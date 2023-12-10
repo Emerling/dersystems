@@ -136,7 +136,7 @@ body {
 
 .publicidad-big {
     /* verificar ruta  */
-    background-image: url(../img/geek.png) no-repeat right;
+    background: url(../img/geek.png) no-repeat right;
     padding: 150px 410px 0px 20px;
 
 
@@ -482,7 +482,7 @@ body {
 
 .card0 {
 
-    background: url(../img/pacino.jpg) center center no-repeat;
+    background: url(../img/geek.png) center center no-repeat;
     background-size: 300px;
 
 }
