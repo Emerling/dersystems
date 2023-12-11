@@ -549,11 +549,32 @@ body {
 
 /* fin card */
 
+/* parallax */
+.parallax-chico{
+    height: 450px;
+    background-image: url(../img/fondo-2paralax.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.parallax-chico h2{
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+    color: var(--primary);
+    font-weight: 800;
+}
+
+
+
 .section {
     /* background: var(--primary); */
     display: flex;
     flex: 2 1 auto;
     flex-flow: row wrap;
+    padding-top: 10px;
+    
 }
 
 .articulos h2,
