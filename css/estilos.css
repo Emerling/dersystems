@@ -556,6 +556,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    letter-spacing: 2px;
+
 }
  .parallax-contenido {
     display: flex;
