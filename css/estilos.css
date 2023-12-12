@@ -557,16 +557,23 @@ body {
     background-size: cover;
     background-position: center;
 }
-.parallax-chico h2{
+ .parallax-contenido {
     display: flex;
     height: inherit;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     color: var(--primary);
     font-weight: 800;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
-
+.parallax-contenido p{
+    font-weight:bold;
+    color:var(--blanco);
+    margin-top: 15px;
+}
 
 .section {
     /* background: var(--primary); */
@@ -574,7 +581,7 @@ body {
     flex: 2 1 auto;
     flex-flow: row wrap;
     padding-top: 10px;
-    
+ 
 }
 
 .articulos h2,
