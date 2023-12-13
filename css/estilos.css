@@ -570,13 +570,23 @@ body {
     font-weight: 800;
     margin-right: 200px;
     margin-left: 200px;
+    font-size: 20px;
 }
 
 .parallax-contenido p{
 
     font-weight:bold;
-    color:var(--blanco);
     margin-top: 15px;
+}
+
+
+.parallax-contenido span{
+    
+        background: var(--primary);
+        display: block;
+        height: 3px;
+        width: 100px;
+
 }
 
 
