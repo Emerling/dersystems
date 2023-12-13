@@ -304,6 +304,18 @@ body {
     padding: 20px 0px 35px 0px;
 }
 
+.sector5 {
+    font-family: 'KonnectHairLine', sans-serif;
+    display: flex;
+    background: linear-gradient(0deg, #d8d7d7, #f7f6f6, #ebe8e8);
+    height: 500px;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
 /* mas card */
 .container-sect2 {
     position: relative;
